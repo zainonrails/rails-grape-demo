@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Demo App to present at **RubyConfPK** Webinar
 
-Things you may want to cover:
+Creating REST apis with Grape Ruby Api Framework
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+CRUD Application with Rspec integrated, using request specs to test our Apis
